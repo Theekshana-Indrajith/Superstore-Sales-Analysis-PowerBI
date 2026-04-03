@@ -7,6 +7,7 @@
 This project involves an end-to-end Business Intelligence solution developed using Power BI to analyze the sales performance of a global retail superstore. The goal was to transform raw transactional data into actionable insights, helping stakeholders identify high-growth categories, monitor profitability, and optimize regional sales strategies.
 
 🛠️ Technical Workflow (ETL & Data Engineering)
+
 Before building the visuals, I performed extensive Data Engineering to ensure data integrity:
 
 Extraction: Connected and imported raw datasets from CSV/Excel sources.
@@ -22,6 +23,7 @@ Custom Columns: Created conditional columns for seasonal grouping and priority l
 Data Modeling: Established a star-schema-inspired model to ensure efficient filtering and high-performance DAX calculations.
 
 🧠 Advanced Analytics with DAX
+
 I developed several custom measures using DAX (Data Analysis Expressions) to extract deeper business KPIs:
 
 Profit Margin %:
@@ -33,6 +35,7 @@ Year-over-Year (YoY) Growth: Calculated to track performance compared to previou
 Total Orders & Unique Customers: Used DISTINCTCOUNT to analyze customer loyalty and volume.
 
 📈 Key Business Insights
+
 Top Performers: The Technology category consistently drives the highest profit margins despite lower transaction volumes compared to Office Supplies.
 
 Regional Trends: The West Region dominates in total revenue, while the South Region shows the highest potential for growth in specific sub-categories.
