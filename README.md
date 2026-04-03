@@ -2,6 +2,7 @@
 
 
 📊 Sales Performance & Business Insights Dashboard
+
 🚀 Project Overview
 This project involves an end-to-end Business Intelligence solution developed using Power BI to analyze the sales performance of a global retail superstore. The goal was to transform raw transactional data into actionable insights, helping stakeholders identify high-growth categories, monitor profitability, and optimize regional sales strategies.
 
